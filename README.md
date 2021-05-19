@@ -1,4 +1,8 @@
-### Hi there 👋
+### 👋 Hi there, I'm @rchrdkn
+
+⚡ Fun fact:
+
+![A little about me](https://cdn.doyouyoga.com/wp/2017/01/15-i-have-no-idea.jpg)
 
 <!--
 **rchrdkn/rchrdkn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
