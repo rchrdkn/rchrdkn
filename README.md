@@ -2,7 +2,7 @@
 
 ⚡ Fun fact:
 
-![A little about me](https://cdn.doyouyoga.com/wp/2017/01/15-i-have-no-idea.jpg)
+![A little about me](https://hostux.pics/images/2016/01/20/I-Have-No-Idea-What-Im-Doing-Dog-02.jpg)
 
 <!--
 **rchrdkn/rchrdkn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
